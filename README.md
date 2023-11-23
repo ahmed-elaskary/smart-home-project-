@@ -14,7 +14,9 @@ Hardware Components:
 5.Fan motor
 
 6.L298 motor driver
+
 /********************************/
+
 Software Requirements
 
 MPLAB programming software
