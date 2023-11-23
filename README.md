@@ -20,5 +20,7 @@ Hardware Components:
 Software Requirements
 
 MPLAB programming software
+
 Programming language: C
+
 proteus 8
